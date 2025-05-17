@@ -176,6 +176,12 @@ hr {
     transform: translate(-33%, -51%);
     padding: 0px 4px;
     font-weight: 500;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
 }
 
 .avatar {
